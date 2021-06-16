@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Senior Temple University Student 🎓
+Repositories for Android apps, ASP.NET web apps, Python automation, and more!
 <!--
 **jamar-palmer/jamar-palmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
